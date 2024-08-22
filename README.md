@@ -8,6 +8,10 @@ An age calculator that allows users to input their date of birth and calculates 
 - **Accurate Calculations:** Calculates age in years, months, and days based on the input date of birth.
 - **Responsive Design:** Works well on various devices and screen sizes.
 
+- ## Live Demo
+
+Check out the live demo of the Age Calculator: [Age Calculator](https://mathewjosephta.github.io/Age-Calculator/)
+
 ## How to Use
 
 1. Clone the repository to your local machine:
